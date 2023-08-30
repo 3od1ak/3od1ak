@@ -3,4 +3,4 @@
 
 <p align="center">I am a Typescript developer. Created in a single person developing Telegram chat manager Eska: <a href="https://t.me/eskacm">t.me/eskacm</a></p>
 
-<p>My CV: https://3od1ak.netlify.app/</p>
+<p align="center">My CV: https://3od1ak.netlify.app/</p>
